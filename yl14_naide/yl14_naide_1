@@ -1,0 +1,6 @@
+# Ülesanne 14 alamülesanne 1
+# Mopeedid
+
+fail = open("mopeedid.txt", encoding="UTF-8")
+
+fail.close()
