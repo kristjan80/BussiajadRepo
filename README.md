@@ -1,6 +1,6 @@
-#Projektitöö
-##Koostajad
+# Projektitöö
+## Koostajad
 
-#Sisu kirjeldus
+# Sisu kirjeldus
 
-#Kasutus kirjeldus
+# Kasutus kirjeldus
