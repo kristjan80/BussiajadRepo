@@ -1,6 +1,5 @@
 # Ülesanne 14 alamülesanne 1
 # Mopeedid
-from chess import *
 kuud = ["jaanuar","veebruar","märts","aprill"] #Ja nii edasi
 fail = open("mopeedid.txt", encoding="UTF-8")
 mopeedid = []
